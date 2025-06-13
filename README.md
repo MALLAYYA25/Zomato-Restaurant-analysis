@@ -59,6 +59,8 @@ This Power BI dashboard analyzes Zomato’s restaurant data across multiple citi
 * **Data Visualization**: Presenting insights in a clean, user-friendly layout
 * **Analytical Thinking**: Drawing actionable insights from raw data
 
+https://github.com/MALLAYYA25/Zomato-Restaurant-analysis/blob/main/Zomato%20Restaurant%20Analysis.png
+
 #PowerBI #DataAnalytics #ZomatoAnalysis #BusinessIntelligence #DashboardDesign #DataVisualization #FoodTech #IndiaRestaurants #DAX`
 
 
